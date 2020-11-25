@@ -17,7 +17,7 @@
     "laminas/laminas-serializer": "2.9.1",
     "league/plates": "3.3.0",
     "monolog/monolog": "1.25.3",
-    "php-di/php-di": "6.1.0",
+    "php-di/php-di": "6.3.0",
     "phpmailer/phpmailer": "6.1.6",
     "phpmyadmin/sql-parser": "5.4.1",
     "scssphp/scssphp": "1.2.1",
